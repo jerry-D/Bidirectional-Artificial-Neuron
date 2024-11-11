@@ -9,5 +9,7 @@ The code allows substitution of much simpler "model" CNTs and nanotorus built fr
 The following are some thumbs of renderings done using the more realistic .STL armchair and zig-zag CNT segments.  To see larger versions of them, simply click on the corresponding thumb.
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_SCAD_a_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_SCAD_a.png)
+[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_SCAD_b_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_SCAD_b.png)
+[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_SCAD_c_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_SCAD_c.png)
 
 
