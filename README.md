@@ -17,7 +17,12 @@ The following images were rendered using Blender.  To do that, each component co
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub.png)
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj.png)
 
-Finally, to view an 11-inch x 17-inch poster-sized Preliminary Information sheet, click on the thumb below.  Note that if your computer is running Windows 7, it will not open in the GitHub environment, due to the latest GitHub updates.  The way to get around this is to simply download the .pdf file onto your hard drive first, then open it from within your local environment.  This should not be an issue with later versions of Windows.
+To view an 11-inch x 17-inch poster-sized Preliminary Information sheet, click on the thumb below.  Note that if your computer is running Windows 7, it will not open in the GitHub environment, due to the latest GitHub updates.  The way to get around this is to simply download the .pdf file onto your hard drive first, then open it from within your local environment.  This should not be an issue with later versions of Windows.
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_PDF_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_publish_HR.pdf)
+
+
+Finally, to get grip on the basic physics of how this new science actually works, click on the thumb below to download and read short paper published by the U.S. Department of Energy (DOE) Brookhaven National Laboratory in November 2017, entitled, "Visualization of Higher Genus Carbon Nanomaterials:  Free Energy, Persistent Current, and Entanglement Entropy". You probably won't understand most of it, but I think you will at least get the gist of it.
+
+[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Brookhaven_thumb.png)](https://www.bnl.gov/isd/documents/95516.pdf)
 
