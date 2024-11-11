@@ -12,29 +12,10 @@
 // All other code was created by Jerry D. Harthcock, which you can download, copy, edit, modify and distribute freely for non-commercial use.
 
 
-//// To create a 100nm armchair (metallic) [6,6] CNT use this code--it takes a few seconds so be patient
-/*
-difference(){
-import("CNT_6_6_10nm.stl");
-union(){
-translate([-1.246,0,-7.960])
-rotate([15,0,])
-cube([8,8,8]);
 
-translate([-1.246,-1.5,10.420])
-rotate([-15,0,])
-cube([8,8,8]);
-   
-translate ([0,-1,5])
-rotate([-60,0,0])
-cylinder(2,d1=1.6,d2=1.6,, $fn=18, center = true);
-   
-}
-}
-*/
-////
 
-//// This code can be used to elongate the above tube in 10nm increments
+//// This code can be used to create a realistic ZiZag CNT in 10nm increments
+//// Be careful to keep L <= 10, otherwise the resulting structure will consume all your memory and take forever to render
 module tubeZigZag_Lx10_plus_1nm(){
 L=4;
 for (i=[0:1:4]) {    //50nm
@@ -44,8 +25,19 @@ rotate([0,90,0])
 }   
 }
 
+//// This code can be used to create a realistic ZiZag CNT in 10nm increments
+//// Be careful to keep L <= 10, otherwise the resulting structure will consume all your memory and take forever to render
+module tubeArmChair_Lx10_plus_1nm(){
+L=4;
+for (i=[0:1:4]) {    //50nm
+translate ([(10.35*i),0,0])
+rotate([0,90,0])
+ import("CNT_6_6_10nm.stl");
+}   
+}
 
-//// This module is used to create the dendrites and axon using standard solid cylinder, which renders exponentially faster than the realistic tubeZigZag above
+
+//// This module is used to create the dendrites and axon using standard solid cylinder, which renders exponentially faster than the realistic armchair or tubeZigZag versions CNT_6_6_10nm.stl or CNT_6_0_10nm.stl using the above modules
 
 module modelSpokes(){
 for(i=[0:30:330]){
@@ -58,7 +50,7 @@ else translate([18.1,0,0]) rotate([0,0,-30]) translate([26,0,0]) rotate([0,90,0]
 }
 } 
 //// This module constructs the dendrites and axon on-the-fly and therefore takes longer than simply importing the pre-made .STL of them--so comment out the one of the two versions below you least prefer
-/*
+
 module spokes(){
 for(i=[0:30:330]){
 rotate([0,0,i])
@@ -67,9 +59,10 @@ else if (i==0) translate([18.1,0,0]) rotate([0,0,10]) tubeZigZag_Lx10_plus_1nm()
 else translate([18.1,0,0]) rotate([0,0,-30]) tubeZigZag_Lx10_plus_1nm();  //dendrite
 }
 }
-*/
+
 
 //// this module imports a pre-constructed 50nm armchair nanotube, which is significantly faster to render than the version above
+/*
 module spokes(){
 for(i=[0:30:330]){
 rotate([0,0,i])
@@ -78,6 +71,7 @@ else if (i==0) translate([18.1,0,0]) rotate([0,0,10]) import("tube_constr_manual
 else translate([18.1,0,0]) rotate([0,0,-30]) import("tube_constr_manual.stl");  //dendrite
 }
 }
+*/
 
 // This is used as the image to be subtracted from from the substrate to create the trenches in which the dendrite and axon CNTs rest
 module squareSpokes(){
@@ -193,10 +187,11 @@ else translate([18.1,0,0]) rotate([0,0,-30]) translate([53,0,-2])
 }
 squareSpokes();
 }
-//rotate([0,0,12]) scale([1,1,1]) pads(); 
+ 
 rotate([0,0,12]) scale([1,1,1]) pads(); 
-
 }
+
+
 module AllPads_no_notches(){
     
 for(i=[0:30:330]){
@@ -208,12 +203,11 @@ else translate([18.1,0,0]) rotate([0,0,-30]) translate([53,0,-2])
  cube ([10, 10, 4], center=true);
 
 }
-//rotate([0,0,12]) scale([1,1,1]) pads(); 
+ 
 rotate([0,0,12]) scale([1,1,1]) pads(); 
-
 }
 
-////------------- Here is the runtime code  -----------------
+
 
 color("silver", .9) import ("Substrate_new_A.stl");//<--new
 modelTorid();
@@ -223,12 +217,13 @@ color("DarkSeaGreen", .9)translate([0,0,-1])fields();
 color ("gold") import ("ThoughtChip_logo.stl");
 
 ////  this imports a .svg version of the ThoughtChip logo
-//translate ([15,-50,-.5]) scale ([.12,.12,.12]) color ("gold") scale ([5,5,5]) linear_extrude(height = 2, center = true)
-// import("ThoughtChip.svg");
+/*
+translate ([15,-50,-.5]) scale ([.12,.12,.12]) color ("gold") scale ([5,5,5]) linear_extrude(height = 2, center = true)
+import("ThoughtChip.svg");
+*/
 
-//// remove the comments below to render with ssDNA
+//// remove the comments below to render with ssDNA decoration on nanotorus
 //// this part takes some time due to complexity
-
 /*
 color ("lightpink") for (i=[0:30:300]){
 rotate([0,0,i+305])
@@ -237,19 +232,29 @@ translate ([0,19,2])  ssDNA();
 */
 
 //// This module is used to create the substrate.  Once created, export it as an STL file, then import the STL file, which is much faster to render
-//substrate();
+/*
+substrate();
+*/
 
-//// This module creates an armchair nanotorus, but is rather slow to render compared to the version below it
-//rotate([0,0,-1]) torroid6_6();
+//// This module creates an armchair nanotorus, but is rather slow to render compared to the version below it.  Therefore, if you want to render with a realistic armchair toroid, use this to create the toroid, then export it with the name "torus_constr_manual.stl".  Then simply imort the newly constructed armchair torus in your main code.
+
+/*
+rotate([0,0,-1]) torroid6_6();
+*/
 
 //// This module creates a nanotorus with apertures by importing individual nanotube segments and fusing them together to form the nanotorus, which is much faster to render than the version above
-//color ("gold") rotate([0,0,-1]) import ("torus_constr_manual.stl");
+/*
+color ("gold") rotate([0,0,-1]) import ("torus_constr_manual.stl");
+*/
 
-//// This module creates the dendrites and axon using armchair chirality.  This version takes much longer than the solid cylinder model version above or the manual version below.
-////  for faster rendering, use the modelSpokes module near the top of this listing
-//color ("grey") spokes();
+////  This module creates the dendrites and axon using armchair chirality.  
+////  This version takes much longer than the solid cylinder model version above or the manual version below.
+////  for faster rendering, use the less realistic modelSpokes module near the top of this listing
 
-//import ("spokes_manual.stl");
+/*
+color ("grey") spokes();
+*/
+
 //squareSpokes();
 //AllPads_no_notches();
 
