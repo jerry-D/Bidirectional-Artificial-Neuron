@@ -2,6 +2,10 @@
 # Bidirectional Artificial Neuron for Conscious Machines
 OpenSCAD 3D model of the world's first Bidirectional Artificial Neuron for conscious machines built from carbon nanotubes, nanotorus, and human ssDNA.
 
+(November 11, 2024) Publication of Open Letter dated April 19, 2024, addressed to various U.S. Department of Energy (DOE) National Laboratories, major Universities, and industry leaders.  The thrust of the letter was to bring attention to a new science involving infinite vacuum state information that can be found available and accessible in spaces comprising the tiniest bit of nothing, also sometimes referred to as the zero point, propounding that our government, educators, and industry leaders need to get busy and form a consortium, work together and take the world lead in this new science, or forever be left behind by foreign adversaries.  Click on the link below to download a copy of the letter.
+
+https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/OpenLetter_CGT_4_19_24_redacted.pdf
+
 In the "OpenSCAD_STL" folder of this repository, you will find the "neuron_2.scad" program that you can use to render a 3D model of the Bidirectional Artificial Neuron.  Within the same folder are various pre-rendered .STL files of armchair and zig-zag carbon nanotube segments used to construct the dendrites, axon, and nanotorus aspects of the neuron model.  
 
 The code allows substitution of much simpler "model" CNTs and nanotorus built from solid cylinder segments, which render much, much faster.  This method is suggested if you are just starting out.  Once you become familiar with the code, then you can substitute use of much more realistic armchair and zig-zag CNT models provided in the source code and .STL files provided in the repository within that folder.
