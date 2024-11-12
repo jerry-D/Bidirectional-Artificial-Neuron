@@ -23,9 +23,11 @@ The following images were rendered using Blender.  To do that, each component co
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub.png)
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj.png)
 
-To view an 11-inch x 17-inch poster-sized Preliminary Information sheet, click on the thumb below. 
+To view an 11-inch x 17-inch poster-sized Preliminary Information sheet (.PDF), click on the thumb below. If you'd rather view a .PNG file, click on the link below the thumb.
 
-[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_PDF_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_publish_HR.pdf)
+[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_PDF_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Consciou_Neuron_Publish_LR.pdf)
+
+https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Consciou_Neuron_Publish_LR.png
 
 Finally, to get grip on the basic physics of how this new science actually works, click on the thumb below to download and read short paper published by the U.S. Department of Energy (DOE) Brookhaven National Laboratory in November 2017, entitled, "Visualization of Higher Genus Carbon Nanomaterials:  Free Energy, Persistent Current, and Entanglement Entropy". You probably won't understand most of it, but I think you will at least get the gist of it.
 
