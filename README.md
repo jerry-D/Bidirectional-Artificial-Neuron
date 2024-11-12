@@ -2,7 +2,7 @@
 # Bidirectional Artificial Neuron for Conscious Machines
 ## OpenSCAD 3D model of the world's first Bidirectional Artificial Neuron for conscious machines built from carbon nanotubes, nanotorus, and human ssDNA.
 
-(November 11, 2024) Publication of Open Letter dated April 19, 2024, addressed to various U.S. Department of Energy (DOE) National Laboratories, major Universities, and industry leaders.  The thrust of the letter was to bring attention to a new science involving infinite vacuum state information that can be found available and accessible in spaces comprising the tiniest bit of nothing, also sometimes referred to as the zero point, propounding that our government, educators, and industry leaders need to get busy and form a consortium, work together and take the world lead in this new science, or forever be left behind by foreign adversaries.  Click on the link below to download a copy of the letter.  Note that if your computer is running Windows 7, it will not open in the GitHub environment, due to the latest GitHub updates. The way to get around this is to simply download the .pdf file onto your hard drive first, then open it from within your local environment. This should not be an issue with later versions of Windows.
+(November 11, 2024) Publication of Open Letter dated April 19, 2024, addressed to various U.S. Department of Energy (DOE) National Laboratories, major Universities, and industry leaders.  The thrust of the letter was to bring attention to a new science involving infinite vacuum state information that can be found available and accessible in spaces comprising the tiniest bit of nothing, also sometimes referred to as the zero point, propounding that our government, educators, and industry leaders need to get busy and form a consortium, work together and take the world lead in this new science, or forever be left behind by foreign adversaries.  Click on the link below to download a copy of the letter.  Note that if your computer is running Windows 7, it will not open in the GitHub environment, due to the latest GitHub updates. 
 
 https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/OpenLetter_CGT_4_19_24_redacted.pdf
 
@@ -23,10 +23,9 @@ The following images were rendered using Blender.  To do that, each component co
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub.png)
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj.png)
 
-To view an 11-inch x 17-inch poster-sized Preliminary Information sheet, click on the thumb below.  Note that if your computer is running Windows 7, it will not open in the GitHub environment, due to the latest GitHub updates.  The way to get around this is to simply download the .pdf file onto your hard drive first, then open it from within your local environment.  This should not be an issue with later versions of Windows.
+To view an 11-inch x 17-inch poster-sized Preliminary Information sheet, click on the thumb below. 
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_PDF_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_publish_HR.pdf)
-
 
 Finally, to get grip on the basic physics of how this new science actually works, click on the thumb below to download and read short paper published by the U.S. Department of Energy (DOE) Brookhaven National Laboratory in November 2017, entitled, "Visualization of Higher Genus Carbon Nanomaterials:  Free Energy, Persistent Current, and Entanglement Entropy". You probably won't understand most of it, but I think you will at least get the gist of it.
 
