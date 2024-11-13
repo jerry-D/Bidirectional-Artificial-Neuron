@@ -23,7 +23,7 @@ The following images were rendered using Blender.  To do that, each component co
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub.png)
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj.png)
 
-To view an 11-inch x 17-inch poster-sized Preliminary Information sheet (.PDF), click on the thumb below. If you'd rather view a .PNG file, click on the link below the thumb.
+To view an 11-inch x 17-inch poster-sized Preliminary Information sheet (.PDF), click on the thumb below. If you'd rather view a .PNG file, click on the link below the poster thumb.
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_PDF_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Consciou_Neuron_Publish_LR.pdf)
 
