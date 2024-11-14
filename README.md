@@ -21,7 +21,7 @@ The following are some thumbs of renderings done using the more realistic .STL a
 The following images were rendered using Blender.  To do that, each component comprising the OpenSCAD model was rendered and exported out of OpenSCAD separately in .STL format.  Then each .STL component was imported into Blender.  Starting out, your best bet is to work with the "model" solid components first, then when you have your desired camera angles, etc., set up, then substitute the more realistic armchair and zig-zag components for final render.  Otherwise, it will take forever due to detail and complexity.  These files are rather large and can take a few seconds to load.
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_9_sub.png)
-[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj.png)
+[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_2_adj_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_ssDNA_1.png)
 
 To view an 11-inch x 17-inch poster-sized Preliminary Information sheet (.PDF), click on the thumb below. If you'd rather view a .PNG file, click on the link below the poster thumb.
 
