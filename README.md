@@ -33,3 +33,5 @@ Finally, to get grip on the basic physics of how this new science actually works
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Brookhaven_thumb.png)](https://www.bnl.gov/isd/documents/95516.pdf)
 
+[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_2_demo_480x270.gif)]
+
