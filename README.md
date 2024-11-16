@@ -26,6 +26,7 @@ The following images were rendered using Blender.  To do that, each component co
 To view an 11-inch x 17-inch poster-sized Preliminary Information sheet (.PDF), click on the thumb below. If you'd rather view a .PNG file, click on the link below the poster thumb.
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Conscious_Neuron_PDF_thumb.png)](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Consciou_Neuron_Publish_LR.pdf)
+![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_2_demo_480x270.gif)
 
 https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Consciou_Neuron_Publish_LR.png
 
@@ -33,5 +34,4 @@ Finally, to get grip on the basic physics of how this new science actually works
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Brookhaven_thumb.png)](https://www.bnl.gov/isd/documents/95516.pdf)
 
-[![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Neuron_2_demo_480x270.gif)]
 
