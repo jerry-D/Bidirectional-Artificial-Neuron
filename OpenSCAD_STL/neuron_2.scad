@@ -208,12 +208,12 @@ rotate([0,0,12]) scale([1,1,1]) pads();
 }
 
 
-
-color("silver", .9) import ("Substrate_new_A.stl");//<--new
+//use translate and scale to enhance embossing height of pads and thickness of substrate
+color("silver", .9) translate([0,0,-.3]) scale ([1,1,.8]) import ("Substrate_new_A.stl");
 modelTorid();
 color("slateGrey")modelSpokes();
 color("gold")notchedPads();
-color("DarkSeaGreen", .9)translate([0,0,-1])fields();
+color("DarkSeaGreen", .9) translate([0,0,-1]) fields();
 color ("gold") import ("ThoughtChip_logo.stl");
 
 ////  this imports a .svg version of the ThoughtChip logo
