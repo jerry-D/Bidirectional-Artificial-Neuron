@@ -2,7 +2,9 @@
 # Bidirectional Artificial Neuron for Conscious Machines
 ## OpenSCAD 3D model of the world's first Bidirectional Artificial Neuron for conscious machines built from carbon nanotubes, nanotorus, and human ssDNA.
 
-(November 22, 2024) Publication of UPDATE to Open Letter dated April 19, 2024. 
+(November 22, 2024) Publication of UPDATE to Open Letter dated April 19, 2024.
+
+https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/UPDATE_OpenLetter_Nov_22_24_Redact.pdf
 
 (November 11, 2024) Publication of Open Letter dated April 19, 2024, addressed to various U.S. Department of Energy (DOE) National Laboratories, major Universities, and industry leaders.  <!-- The thrust of the letter was to bring attention to a new science involving infinite vacuum state information that can be found available and accessible in spaces comprising the tiniest bit of nothing, also sometimes referred to as the zero point, propounding that our government, educators, and industry leaders need to get busy and form a consortium, work together and take the world lead in this new science, or forever be left behind by foreign competitors.  Click on the link below to download a copy of the letter.  Note that if your computer is running Windows 7, it will not open in the GitHub environment, due to the latest GitHub updates. -->
 
