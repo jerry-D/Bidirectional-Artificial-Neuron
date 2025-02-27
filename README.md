@@ -2,6 +2,10 @@
 # Bidirectional Artificial Neuron for Conscious Machines
 ## OpenSCAD 3D model of the world's first Bidirectional Artificial Neuron for conscious machines built from carbon nanotubes, nanotorus, and human ssDNA.
 
+(February 27, 2025)  Notice Of Allowance for 21 claims (3 of them independent) issued on February 19, 2025.  
+
+https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/17350805_Allowed_Claims.pdf
+
 (November 22, 2024) Publication of UPDATE to Open Letter dated April 19, 2024.
 
 https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/UPDATE_OpenLetter_Nov_22_24_Redact.pdf
