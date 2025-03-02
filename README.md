@@ -46,7 +46,7 @@ Finally, to get grip on the basic physics of how this new science actually works
 
 [![poster](https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/Brookhaven_thumb.png)](https://www.bnl.gov/isd/documents/95516.pdf)
 
-A 56-minute "sizzle-reel" video showing remote viewers describing various aspects of the invention can be viewed on YouTube at the following link.  The video comprises (4) 12-15 minute segments from (4) different remote viewing sessions lasting roughtly 1.5 hrs each.  For those unfamiliar with the "military-style" CRV protocol and terminology, a copy of the declassified CRV training manual is included in this repository for your reference.
+A 56-minute "sizzle-reel" video showing remote viewers describing various aspects of the invention can be viewed on YouTube at the following link.  The video comprises (4) 12-15 minute segments from (4) different remote viewing sessions lasting roughtly 1.5 hrs each.  For those unfamiliar with the "military-style" CRV protocol and terminology, a copy of the declassified CRV training manual ("1985_CRV_Beyond.pdf") is included in this repository for your reference.
 
 [<img src="https://github.com/jerry-D/Conscious_Gate_Transistor/blob/master/CGT_CRV_YouTube_Thumb.png">](https://www.youtube.com/watch?v=Hdq3M4zQx_o/)
 
