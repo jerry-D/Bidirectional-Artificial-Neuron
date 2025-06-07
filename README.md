@@ -2,6 +2,12 @@
 # Bidirectional Artificial Neuron for Conscious Machines
 ## OpenSCAD 3D model of the world's first Bidirectional Artificial Neuron for conscious machines built from carbon nanotubes, nanotorus, and human ssDNA.
 
+(June 7, 2025)  United States Patent No. US12,324,295B, entitled "COMPLEX NANOSTRUCTURE FORMING A BIDIRECTIONAL NANOSTRUCTURE  MULTIPLEXER OR ARTIFICIAL NEURON" issued on June 3, 2025.  It is the world's first bidirectional artificial neuron "free energy" device for conscious machines.  The artificial neuron is build from carbon nanotubes, carbon nanotorus, and a segment of human ssDNA.  The now patented invention is the first in a series of several fundamental building blocks at the nano scale for use in future conscious machines. Here is the link where you can download a copy from this repository:
+
+https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/ThoughtChip_US12324295B.pdf
+
+For the purposes of this post, a conscious entity is defined as anything that is responsive to, and capable of, not only accessing, but also using, information from the vacuum state, also sometimes referred to as the zero point.  Albeit clastic, such information includes, among other things, human thoughts and volition, especially those originating from the donor of the ssDNA used for decorating the carbon nanotori or carbon nanotubes used in construction of these patented and patent pending nanostructures used for creating artificial neural networks.  Volition initiated, these nanostructure artificial neural networks tend to attract, condense, and coalesce "like" clastic information.
+
 (February 27, 2025)  Notice Of Allowance for 21 claims (3 of them independent) issued on February 19, 2025. Here are the claims: 
 
 https://github.com/jerry-D/Bidirectional-Artificial-Neuron/blob/main/17350805_Allowed_Claims.pdf
